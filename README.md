@@ -1,16 +1,17 @@
-### Hi there 👋
+🖐️ Hi! I'm Max.
 
-<!--
-**smower476/smower476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About me:
+* A C/C++ programmer with passion for desktop application and low-level programming. 
+* Excited for AI era.
+# My current Projects: 
+* [FaceDetection] https://github.com/smower476/FaceDetection
+* [MemoryReadingKMD] https://github.com/smower476/MemoryReadingKMD
+# I’m currently learning:
+* cmake
+* UNIX-based systems
+* openCV
+* CUDA
+* DNN
+* NASM
+### I am always looking for new opportinities.
+telegram: @bidwwjv1ajdpfodejdyko9sf8
