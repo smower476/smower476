@@ -3,6 +3,7 @@
 # About me:
 * A C/C++ programmer with passion for desktop application and low-level programming. 
 * Excited for AI era.
+* Interested in reverse engineering and information security.
 # My current Projects: 
 * [FaceDetection] https://github.com/smower476/FaceDetection
 * [MemoryReadingKMD] https://github.com/smower476/MemoryReadingKMD
